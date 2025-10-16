@@ -1,0 +1,17 @@
+algoritmo "ex11graus celsus em Fah "
+var
+
+//tranformar graus celsus em fahrenheit
+  F ,C :real
+inicio
+
+//entrada de dados
+escreva ("graus celsus:")
+leia (c)
+
+//processamento
+F<- (9*C + 160) /5
+
+//saida de dados
+escreval ("fah=",F)
+fimalgoritmo

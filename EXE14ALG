@@ -1,0 +1,22 @@
+algoritmo "exe15"
+var
+a,b,c,s:inteiro
+
+
+inicio
+//esntrada de dados
+escreva ("s de a")
+leia(a)
+escreva ("soma de b ")
+leia (b)
+escreva ( "soma de c")
+leia (c)
+
+//processamento
+
+s <- (a*a) + (b *b) + (c*c)
+
+//saida
+escreval ( "soma = " , s)
+
+fimalgoritmo
